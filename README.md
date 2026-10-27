@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 
 以下、COACHTECH 教材のハンズオンで作成したリポジトリです。
 (https://github.com/maehata554/authorization-app-practice)
+(https://github.com/maehata554/eloquent-app-practice)
+
+
 チームに貢献できるエンジニアを目指します。この分野は初めてで覚えることが多いですが、そのぶん楽しいです。
 コミュニケーションも得意な方なので、顧客のニーズに寄り添えるよう努めます。
 - Email:nonoka554@icloud.com
